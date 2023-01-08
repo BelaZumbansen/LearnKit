@@ -1,6 +1,6 @@
-===============
+================
 LearnKit Module
-===============
+================
 
 Library intended to provide several, easy to access, generic implementations of common Machine Learning algorithms. As of this moment the library includes
 the following algorithms, however, it is intended to be a work in progress and more will be added in the future.
